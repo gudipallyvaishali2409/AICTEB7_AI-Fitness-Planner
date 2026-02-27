@@ -1,0 +1,501 @@
+exercise_id,exercise_name,category,goal,level,equipment,duration_minutes,calories_burned
+1,Leg Press,Legs,Weight Loss,Intermediate,Machine,60,720
+2,Leg Curl,Legs,Weight Loss,Beginner,Dumbbell,30,270
+3,Deadlift,Back,Maintenance,Intermediate,Barbell,40,360
+4,Mountain Climbers,Core,Muscle Gain,Beginner,Dumbbell,60,420
+5,Plank,Core,Muscle Gain,Intermediate,Bodyweight,20,140
+6,Deadlift,Back,Muscle Gain,Intermediate,Barbell,60,360
+7,Chest Fly,Chest,Muscle Gain,Beginner,Dumbbell,30,300
+8,Lat Pulldown,Back,Maintenance,Beginner,Machine,20,240
+9,Incline Press,Chest,Muscle Gain,Advanced,Dumbbell,20,120
+10,Push-ups,Chest,Weight Loss,Advanced,Bodyweight,20,100
+11,Mountain Climbers,Core,Muscle Gain,Beginner,Dumbbell,20,140
+12,Burpees,Cardio,Muscle Gain,Advanced,Dumbbell,40,280
+13,Cycling,Cardio,Weight Loss,Advanced,Machine,40,280
+14,Bicep Curls,Arms,Maintenance,Intermediate,Dumbbell,40,240
+15,Tricep Dips,Arms,Weight Loss,Intermediate,Bodyweight,20,240
+16,Burpees,Cardio,Weight Loss,Beginner,Dumbbell,20,160
+17,Running,Cardio,Maintenance,Advanced,Bodyweight,60,660
+18,Pull-ups,Back,Muscle Gain,Advanced,Dumbbell,20,160
+19,Mountain Climbers,Core,Weight Loss,Intermediate,Dumbbell,30,210
+20,Running,Cardio,Maintenance,Intermediate,Bodyweight,30,210
+21,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,60,300
+22,Push-ups,Chest,Weight Loss,Intermediate,Bodyweight,20,240
+23,Bicep Curls,Arms,Weight Loss,Beginner,Dumbbell,60,600
+24,Deadlift,Back,Weight Loss,Beginner,Barbell,30,180
+25,Tricep Dips,Arms,Weight Loss,Intermediate,Bodyweight,30,240
+26,Leg Press,Legs,Maintenance,Beginner,Machine,60,720
+27,Deadlift,Back,Weight Loss,Beginner,Barbell,40,280
+28,Bicep Curls,Arms,Maintenance,Advanced,Dumbbell,30,360
+29,Chest Fly,Chest,Maintenance,Intermediate,Dumbbell,60,420
+30,Shoulder Press,Shoulders,Maintenance,Beginner,Dumbbell,40,360
+31,Jump Rope,Cardio,Maintenance,Advanced,Bodyweight,40,400
+32,Tricep Dips,Arms,Maintenance,Advanced,Bodyweight,40,280
+33,Deadlift,Back,Maintenance,Advanced,Barbell,30,300
+34,Burpees,Cardio,Muscle Gain,Intermediate,Dumbbell,30,270
+35,Incline Press,Chest,Maintenance,Advanced,Dumbbell,60,540
+36,Running,Cardio,Weight Loss,Intermediate,Bodyweight,20,160
+37,Plank,Core,Maintenance,Advanced,Bodyweight,60,300
+38,Jump Rope,Cardio,Weight Loss,Advanced,Bodyweight,20,180
+39,Cycling,Cardio,Muscle Gain,Advanced,Machine,20,120
+40,Leg Curl,Legs,Muscle Gain,Beginner,Dumbbell,30,300
+41,Push-ups,Chest,Weight Loss,Advanced,Bodyweight,60,720
+42,Leg Press,Legs,Muscle Gain,Advanced,Machine,60,300
+43,Deadlift,Back,Weight Loss,Advanced,Barbell,40,400
+44,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,30,210
+45,Pull-ups,Back,Weight Loss,Intermediate,Dumbbell,40,280
+46,Shoulder Press,Shoulders,Weight Loss,Advanced,Dumbbell,20,240
+47,Lat Pulldown,Back,Muscle Gain,Advanced,Machine,40,360
+48,Mountain Climbers,Core,Muscle Gain,Beginner,Dumbbell,40,240
+49,Pull-ups,Back,Muscle Gain,Advanced,Dumbbell,40,320
+50,Lunges,Legs,Weight Loss,Intermediate,Dumbbell,20,160
+51,Burpees,Cardio,Maintenance,Beginner,Dumbbell,60,600
+52,Jump Rope,Cardio,Muscle Gain,Intermediate,Bodyweight,40,440
+53,Jump Rope,Cardio,Weight Loss,Intermediate,Bodyweight,60,600
+54,Plank,Core,Weight Loss,Advanced,Bodyweight,40,280
+55,Lunges,Legs,Muscle Gain,Intermediate,Dumbbell,40,320
+56,Cycling,Cardio,Muscle Gain,Advanced,Machine,30,210
+57,Leg Press,Legs,Weight Loss,Beginner,Machine,30,270
+58,Bicep Curls,Arms,Maintenance,Intermediate,Dumbbell,40,480
+59,Running,Cardio,Maintenance,Beginner,Bodyweight,60,660
+60,Squats,Legs,Muscle Gain,Beginner,Barbell,30,180
+61,Bench Press,Chest,Maintenance,Beginner,Barbell,20,200
+62,Running,Cardio,Maintenance,Intermediate,Bodyweight,20,100
+63,Squats,Legs,Maintenance,Intermediate,Barbell,60,720
+64,Burpees,Cardio,Maintenance,Intermediate,Dumbbell,30,360
+65,Squats,Legs,Muscle Gain,Advanced,Barbell,30,360
+66,Mountain Climbers,Core,Maintenance,Intermediate,Dumbbell,60,600
+67,Leg Press,Legs,Weight Loss,Intermediate,Machine,60,420
+68,Bench Press,Chest,Maintenance,Beginner,Barbell,40,480
+69,Plank,Core,Muscle Gain,Advanced,Bodyweight,20,220
+70,Burpees,Cardio,Maintenance,Advanced,Dumbbell,40,320
+71,Incline Press,Chest,Maintenance,Beginner,Dumbbell,60,660
+72,Deadlift,Back,Weight Loss,Advanced,Barbell,20,180
+73,Squats,Legs,Maintenance,Intermediate,Barbell,40,200
+74,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,40,240
+75,Shoulder Press,Shoulders,Maintenance,Beginner,Dumbbell,30,240
+76,Squats,Legs,Maintenance,Advanced,Barbell,60,600
+77,Bicep Curls,Arms,Maintenance,Intermediate,Dumbbell,40,320
+78,Burpees,Cardio,Weight Loss,Intermediate,Dumbbell,20,180
+79,Leg Curl,Legs,Maintenance,Intermediate,Dumbbell,20,120
+80,Lunges,Legs,Maintenance,Beginner,Dumbbell,30,270
+81,Jump Rope,Cardio,Muscle Gain,Advanced,Bodyweight,40,440
+82,Squats,Legs,Weight Loss,Beginner,Barbell,60,720
+83,Tricep Dips,Arms,Maintenance,Beginner,Bodyweight,60,480
+84,Jump Rope,Cardio,Maintenance,Advanced,Bodyweight,60,420
+85,Bench Press,Chest,Muscle Gain,Intermediate,Barbell,40,320
+86,Push-ups,Chest,Weight Loss,Intermediate,Bodyweight,30,150
+87,Jump Rope,Cardio,Muscle Gain,Intermediate,Bodyweight,40,280
+88,Squats,Legs,Maintenance,Beginner,Barbell,30,210
+89,Chest Fly,Chest,Maintenance,Advanced,Dumbbell,20,180
+90,Plank,Core,Maintenance,Advanced,Bodyweight,30,150
+91,Deadlift,Back,Muscle Gain,Advanced,Barbell,40,440
+92,Chest Fly,Chest,Maintenance,Beginner,Dumbbell,20,140
+93,Bench Press,Chest,Muscle Gain,Beginner,Barbell,20,240
+94,Bench Press,Chest,Weight Loss,Beginner,Barbell,20,180
+95,Leg Curl,Legs,Muscle Gain,Intermediate,Dumbbell,30,270
+96,Cycling,Cardio,Maintenance,Intermediate,Machine,20,160
+97,Bench Press,Chest,Weight Loss,Beginner,Barbell,30,240
+98,Leg Press,Legs,Weight Loss,Beginner,Machine,20,240
+99,Deadlift,Back,Weight Loss,Advanced,Barbell,20,220
+100,Leg Curl,Legs,Maintenance,Intermediate,Dumbbell,60,600
+101,Mountain Climbers,Core,Maintenance,Advanced,Dumbbell,30,360
+102,Lunges,Legs,Maintenance,Advanced,Dumbbell,40,240
+103,Lat Pulldown,Back,Weight Loss,Beginner,Machine,20,100
+104,Running,Cardio,Muscle Gain,Advanced,Bodyweight,60,720
+105,Mountain Climbers,Core,Maintenance,Advanced,Dumbbell,60,540
+106,Cycling,Cardio,Muscle Gain,Advanced,Machine,30,210
+107,Jump Rope,Cardio,Weight Loss,Beginner,Bodyweight,40,480
+108,Plank,Core,Maintenance,Intermediate,Bodyweight,60,360
+109,Plank,Core,Muscle Gain,Advanced,Bodyweight,30,180
+110,Squats,Legs,Muscle Gain,Intermediate,Barbell,60,720
+111,Lunges,Legs,Weight Loss,Beginner,Dumbbell,30,330
+112,Bench Press,Chest,Muscle Gain,Intermediate,Barbell,60,540
+113,Lunges,Legs,Muscle Gain,Beginner,Dumbbell,30,180
+114,Burpees,Cardio,Maintenance,Intermediate,Dumbbell,40,280
+115,Lunges,Legs,Weight Loss,Advanced,Dumbbell,20,140
+116,Bench Press,Chest,Weight Loss,Advanced,Barbell,40,280
+117,Squats,Legs,Muscle Gain,Beginner,Barbell,40,480
+118,Lat Pulldown,Back,Muscle Gain,Intermediate,Machine,20,120
+119,Leg Curl,Legs,Maintenance,Intermediate,Dumbbell,30,180
+120,Bench Press,Chest,Muscle Gain,Beginner,Barbell,60,720
+121,Mountain Climbers,Core,Muscle Gain,Intermediate,Dumbbell,40,400
+122,Incline Press,Chest,Maintenance,Beginner,Dumbbell,20,240
+123,Bicep Curls,Arms,Muscle Gain,Beginner,Dumbbell,20,240
+124,Push-ups,Chest,Muscle Gain,Advanced,Bodyweight,20,220
+125,Lunges,Legs,Weight Loss,Beginner,Dumbbell,60,660
+126,Running,Cardio,Muscle Gain,Intermediate,Bodyweight,40,240
+127,Leg Curl,Legs,Weight Loss,Intermediate,Dumbbell,60,600
+128,Push-ups,Chest,Weight Loss,Beginner,Bodyweight,20,180
+129,Leg Press,Legs,Muscle Gain,Beginner,Machine,40,320
+130,Leg Press,Legs,Maintenance,Advanced,Machine,20,240
+131,Deadlift,Back,Weight Loss,Advanced,Barbell,40,280
+132,Squats,Legs,Muscle Gain,Advanced,Barbell,60,420
+133,Deadlift,Back,Muscle Gain,Advanced,Barbell,20,220
+134,Bicep Curls,Arms,Weight Loss,Intermediate,Dumbbell,40,320
+135,Squats,Legs,Weight Loss,Beginner,Barbell,30,330
+136,Squats,Legs,Muscle Gain,Intermediate,Barbell,30,360
+137,Shoulder Press,Shoulders,Weight Loss,Intermediate,Dumbbell,60,720
+138,Incline Press,Chest,Weight Loss,Beginner,Dumbbell,40,200
+139,Deadlift,Back,Weight Loss,Intermediate,Barbell,30,150
+140,Incline Press,Chest,Weight Loss,Intermediate,Dumbbell,20,180
+141,Burpees,Cardio,Muscle Gain,Intermediate,Dumbbell,30,300
+142,Bench Press,Chest,Muscle Gain,Beginner,Barbell,30,180
+143,Lat Pulldown,Back,Muscle Gain,Beginner,Machine,40,200
+144,Leg Press,Legs,Maintenance,Advanced,Machine,30,150
+145,Jump Rope,Cardio,Maintenance,Beginner,Bodyweight,60,600
+146,Tricep Dips,Arms,Weight Loss,Advanced,Bodyweight,60,660
+147,Cycling,Cardio,Muscle Gain,Advanced,Machine,20,160
+148,Lat Pulldown,Back,Weight Loss,Intermediate,Machine,20,120
+149,Cycling,Cardio,Weight Loss,Advanced,Machine,20,220
+150,Tricep Dips,Arms,Weight Loss,Beginner,Bodyweight,60,420
+151,Tricep Dips,Arms,Muscle Gain,Intermediate,Bodyweight,20,240
+152,Cycling,Cardio,Weight Loss,Intermediate,Machine,60,540
+153,Cycling,Cardio,Weight Loss,Advanced,Machine,20,180
+154,Pull-ups,Back,Weight Loss,Beginner,Dumbbell,30,300
+155,Leg Press,Legs,Maintenance,Intermediate,Machine,30,210
+156,Bench Press,Chest,Muscle Gain,Intermediate,Barbell,40,320
+157,Bench Press,Chest,Weight Loss,Beginner,Barbell,30,180
+158,Bench Press,Chest,Muscle Gain,Intermediate,Barbell,60,360
+159,Squats,Legs,Maintenance,Beginner,Barbell,30,300
+160,Lat Pulldown,Back,Maintenance,Beginner,Machine,40,400
+161,Squats,Legs,Maintenance,Intermediate,Barbell,20,100
+162,Shoulder Press,Shoulders,Muscle Gain,Intermediate,Dumbbell,60,480
+163,Lunges,Legs,Muscle Gain,Intermediate,Dumbbell,40,240
+164,Running,Cardio,Maintenance,Beginner,Bodyweight,60,660
+165,Running,Cardio,Muscle Gain,Beginner,Bodyweight,20,220
+166,Lat Pulldown,Back,Muscle Gain,Advanced,Machine,40,480
+167,Lat Pulldown,Back,Weight Loss,Intermediate,Machine,60,360
+168,Chest Fly,Chest,Maintenance,Intermediate,Dumbbell,60,360
+169,Incline Press,Chest,Weight Loss,Intermediate,Dumbbell,40,240
+170,Pull-ups,Back,Weight Loss,Beginner,Dumbbell,40,480
+171,Tricep Dips,Arms,Muscle Gain,Beginner,Bodyweight,20,180
+172,Deadlift,Back,Weight Loss,Intermediate,Barbell,60,720
+173,Mountain Climbers,Core,Weight Loss,Advanced,Dumbbell,40,400
+174,Running,Cardio,Maintenance,Beginner,Bodyweight,20,200
+175,Cycling,Cardio,Maintenance,Intermediate,Machine,30,300
+176,Squats,Legs,Weight Loss,Intermediate,Barbell,40,480
+177,Bench Press,Chest,Muscle Gain,Advanced,Barbell,40,200
+178,Leg Curl,Legs,Muscle Gain,Advanced,Dumbbell,20,160
+179,Leg Curl,Legs,Weight Loss,Beginner,Dumbbell,60,660
+180,Running,Cardio,Muscle Gain,Beginner,Bodyweight,30,360
+181,Mountain Climbers,Core,Muscle Gain,Advanced,Dumbbell,60,540
+182,Bench Press,Chest,Weight Loss,Advanced,Barbell,60,420
+183,Lat Pulldown,Back,Weight Loss,Advanced,Machine,40,400
+184,Mountain Climbers,Core,Weight Loss,Intermediate,Dumbbell,30,360
+185,Deadlift,Back,Muscle Gain,Beginner,Barbell,30,270
+186,Push-ups,Chest,Weight Loss,Advanced,Bodyweight,40,280
+187,Chest Fly,Chest,Muscle Gain,Intermediate,Dumbbell,30,180
+188,Squats,Legs,Muscle Gain,Beginner,Barbell,60,600
+189,Tricep Dips,Arms,Weight Loss,Advanced,Bodyweight,60,600
+190,Leg Curl,Legs,Weight Loss,Intermediate,Dumbbell,60,660
+191,Tricep Dips,Arms,Maintenance,Intermediate,Bodyweight,60,300
+192,Chest Fly,Chest,Weight Loss,Intermediate,Dumbbell,20,140
+193,Plank,Core,Muscle Gain,Beginner,Bodyweight,30,210
+194,Lat Pulldown,Back,Maintenance,Advanced,Machine,30,360
+195,Bench Press,Chest,Weight Loss,Intermediate,Barbell,30,300
+196,Push-ups,Chest,Maintenance,Advanced,Bodyweight,40,240
+197,Incline Press,Chest,Muscle Gain,Intermediate,Dumbbell,20,160
+198,Bench Press,Chest,Muscle Gain,Beginner,Barbell,30,240
+199,Jump Rope,Cardio,Muscle Gain,Advanced,Bodyweight,30,150
+200,Lat Pulldown,Back,Muscle Gain,Intermediate,Machine,30,180
+201,Tricep Dips,Arms,Muscle Gain,Intermediate,Bodyweight,40,360
+202,Jump Rope,Cardio,Weight Loss,Beginner,Bodyweight,30,210
+203,Pull-ups,Back,Muscle Gain,Advanced,Dumbbell,20,220
+204,Jump Rope,Cardio,Maintenance,Intermediate,Bodyweight,20,220
+205,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,60,720
+206,Burpees,Cardio,Maintenance,Intermediate,Dumbbell,60,660
+207,Bicep Curls,Arms,Weight Loss,Beginner,Dumbbell,20,160
+208,Leg Curl,Legs,Weight Loss,Beginner,Dumbbell,60,420
+209,Burpees,Cardio,Maintenance,Advanced,Dumbbell,30,300
+210,Deadlift,Back,Weight Loss,Beginner,Barbell,30,210
+211,Plank,Core,Weight Loss,Advanced,Bodyweight,30,180
+212,Plank,Core,Muscle Gain,Beginner,Bodyweight,60,360
+213,Lunges,Legs,Weight Loss,Beginner,Dumbbell,40,440
+214,Leg Curl,Legs,Weight Loss,Advanced,Dumbbell,60,720
+215,Cycling,Cardio,Muscle Gain,Intermediate,Machine,30,300
+216,Pull-ups,Back,Muscle Gain,Beginner,Dumbbell,60,720
+217,Chest Fly,Chest,Maintenance,Intermediate,Dumbbell,60,300
+218,Bicep Curls,Arms,Weight Loss,Beginner,Dumbbell,20,220
+219,Deadlift,Back,Weight Loss,Intermediate,Barbell,60,480
+220,Deadlift,Back,Maintenance,Intermediate,Barbell,30,330
+221,Burpees,Cardio,Maintenance,Intermediate,Dumbbell,30,300
+222,Pull-ups,Back,Maintenance,Beginner,Dumbbell,40,360
+223,Jump Rope,Cardio,Maintenance,Intermediate,Bodyweight,30,270
+224,Burpees,Cardio,Muscle Gain,Intermediate,Dumbbell,60,660
+225,Shoulder Press,Shoulders,Maintenance,Beginner,Dumbbell,30,180
+226,Leg Curl,Legs,Maintenance,Beginner,Dumbbell,20,200
+227,Bench Press,Chest,Muscle Gain,Beginner,Barbell,30,210
+228,Pull-ups,Back,Weight Loss,Beginner,Dumbbell,20,180
+229,Plank,Core,Weight Loss,Advanced,Bodyweight,60,300
+230,Tricep Dips,Arms,Weight Loss,Intermediate,Bodyweight,60,480
+231,Leg Curl,Legs,Weight Loss,Beginner,Dumbbell,20,120
+232,Leg Press,Legs,Maintenance,Advanced,Machine,40,320
+233,Leg Curl,Legs,Maintenance,Advanced,Dumbbell,40,280
+234,Chest Fly,Chest,Weight Loss,Beginner,Dumbbell,30,330
+235,Shoulder Press,Shoulders,Weight Loss,Intermediate,Dumbbell,40,280
+236,Lunges,Legs,Maintenance,Intermediate,Dumbbell,30,150
+237,Squats,Legs,Muscle Gain,Advanced,Barbell,30,240
+238,Bench Press,Chest,Maintenance,Beginner,Barbell,20,200
+239,Lunges,Legs,Muscle Gain,Beginner,Dumbbell,60,480
+240,Running,Cardio,Weight Loss,Intermediate,Bodyweight,40,480
+241,Tricep Dips,Arms,Weight Loss,Intermediate,Bodyweight,40,480
+242,Cycling,Cardio,Maintenance,Beginner,Machine,20,140
+243,Mountain Climbers,Core,Maintenance,Advanced,Dumbbell,30,330
+244,Running,Cardio,Maintenance,Beginner,Bodyweight,20,180
+245,Incline Press,Chest,Maintenance,Beginner,Dumbbell,20,200
+246,Deadlift,Back,Muscle Gain,Beginner,Barbell,40,240
+247,Running,Cardio,Maintenance,Beginner,Bodyweight,30,180
+248,Cycling,Cardio,Maintenance,Beginner,Machine,20,120
+249,Shoulder Press,Shoulders,Weight Loss,Beginner,Dumbbell,30,270
+250,Pull-ups,Back,Weight Loss,Intermediate,Dumbbell,40,200
+251,Bench Press,Chest,Maintenance,Beginner,Barbell,30,300
+252,Pull-ups,Back,Muscle Gain,Intermediate,Dumbbell,60,300
+253,Bench Press,Chest,Muscle Gain,Beginner,Barbell,60,660
+254,Plank,Core,Muscle Gain,Intermediate,Bodyweight,30,210
+255,Bench Press,Chest,Maintenance,Intermediate,Barbell,40,240
+256,Chest Fly,Chest,Weight Loss,Advanced,Dumbbell,40,240
+257,Leg Curl,Legs,Muscle Gain,Beginner,Dumbbell,30,330
+258,Lunges,Legs,Maintenance,Intermediate,Dumbbell,20,200
+259,Squats,Legs,Muscle Gain,Advanced,Barbell,60,300
+260,Jump Rope,Cardio,Maintenance,Intermediate,Bodyweight,30,180
+261,Leg Press,Legs,Weight Loss,Advanced,Machine,20,160
+262,Squats,Legs,Maintenance,Beginner,Barbell,30,270
+263,Mountain Climbers,Core,Weight Loss,Intermediate,Dumbbell,20,120
+264,Running,Cardio,Muscle Gain,Advanced,Bodyweight,20,100
+265,Mountain Climbers,Core,Weight Loss,Intermediate,Dumbbell,20,160
+266,Tricep Dips,Arms,Weight Loss,Advanced,Bodyweight,40,480
+267,Burpees,Cardio,Muscle Gain,Intermediate,Dumbbell,30,210
+268,Shoulder Press,Shoulders,Weight Loss,Advanced,Dumbbell,20,240
+269,Shoulder Press,Shoulders,Muscle Gain,Advanced,Dumbbell,30,300
+270,Leg Curl,Legs,Muscle Gain,Intermediate,Dumbbell,40,240
+271,Leg Curl,Legs,Muscle Gain,Intermediate,Dumbbell,60,720
+272,Bicep Curls,Arms,Weight Loss,Intermediate,Dumbbell,60,660
+273,Deadlift,Back,Muscle Gain,Intermediate,Barbell,20,180
+274,Cycling,Cardio,Weight Loss,Advanced,Machine,30,240
+275,Lunges,Legs,Weight Loss,Intermediate,Dumbbell,30,240
+276,Leg Press,Legs,Maintenance,Beginner,Machine,40,360
+277,Cycling,Cardio,Maintenance,Intermediate,Machine,20,220
+278,Push-ups,Chest,Weight Loss,Intermediate,Bodyweight,60,660
+279,Plank,Core,Muscle Gain,Intermediate,Bodyweight,30,300
+280,Cycling,Cardio,Muscle Gain,Advanced,Machine,20,200
+281,Push-ups,Chest,Weight Loss,Advanced,Bodyweight,60,660
+282,Cycling,Cardio,Maintenance,Intermediate,Machine,20,200
+283,Lat Pulldown,Back,Weight Loss,Beginner,Machine,40,240
+284,Deadlift,Back,Muscle Gain,Beginner,Barbell,30,240
+285,Chest Fly,Chest,Maintenance,Beginner,Dumbbell,30,270
+286,Bicep Curls,Arms,Maintenance,Beginner,Dumbbell,30,360
+287,Tricep Dips,Arms,Maintenance,Intermediate,Bodyweight,40,360
+288,Bench Press,Chest,Weight Loss,Beginner,Barbell,20,160
+289,Leg Press,Legs,Maintenance,Beginner,Machine,40,440
+290,Plank,Core,Muscle Gain,Intermediate,Bodyweight,20,100
+291,Lunges,Legs,Muscle Gain,Beginner,Dumbbell,30,210
+292,Bench Press,Chest,Weight Loss,Beginner,Barbell,60,420
+293,Chest Fly,Chest,Muscle Gain,Intermediate,Dumbbell,30,210
+294,Running,Cardio,Muscle Gain,Advanced,Bodyweight,40,280
+295,Jump Rope,Cardio,Maintenance,Beginner,Bodyweight,30,210
+296,Cycling,Cardio,Weight Loss,Intermediate,Machine,20,180
+297,Squats,Legs,Maintenance,Beginner,Barbell,20,140
+298,Incline Press,Chest,Maintenance,Advanced,Dumbbell,60,360
+299,Bench Press,Chest,Maintenance,Intermediate,Barbell,30,210
+300,Deadlift,Back,Muscle Gain,Advanced,Barbell,60,480
+301,Chest Fly,Chest,Weight Loss,Advanced,Dumbbell,20,180
+302,Pull-ups,Back,Muscle Gain,Beginner,Dumbbell,30,300
+303,Burpees,Cardio,Muscle Gain,Advanced,Dumbbell,30,150
+304,Leg Curl,Legs,Maintenance,Intermediate,Dumbbell,60,660
+305,Bench Press,Chest,Muscle Gain,Advanced,Barbell,20,240
+306,Push-ups,Chest,Weight Loss,Beginner,Bodyweight,60,540
+307,Tricep Dips,Arms,Weight Loss,Intermediate,Bodyweight,60,480
+308,Deadlift,Back,Muscle Gain,Advanced,Barbell,20,200
+309,Lunges,Legs,Weight Loss,Beginner,Dumbbell,30,300
+310,Squats,Legs,Weight Loss,Advanced,Barbell,30,360
+311,Burpees,Cardio,Maintenance,Intermediate,Dumbbell,40,480
+312,Plank,Core,Weight Loss,Beginner,Bodyweight,30,330
+313,Leg Press,Legs,Muscle Gain,Beginner,Machine,20,140
+314,Running,Cardio,Weight Loss,Advanced,Bodyweight,30,270
+315,Tricep Dips,Arms,Muscle Gain,Advanced,Bodyweight,60,600
+316,Deadlift,Back,Weight Loss,Advanced,Barbell,60,720
+317,Chest Fly,Chest,Muscle Gain,Advanced,Dumbbell,20,120
+318,Lunges,Legs,Muscle Gain,Advanced,Dumbbell,20,240
+319,Mountain Climbers,Core,Weight Loss,Beginner,Dumbbell,30,270
+320,Tricep Dips,Arms,Maintenance,Advanced,Bodyweight,60,360
+321,Tricep Dips,Arms,Weight Loss,Advanced,Bodyweight,40,320
+322,Mountain Climbers,Core,Maintenance,Beginner,Dumbbell,30,330
+323,Bench Press,Chest,Weight Loss,Intermediate,Barbell,30,150
+324,Push-ups,Chest,Weight Loss,Advanced,Bodyweight,30,150
+325,Mountain Climbers,Core,Weight Loss,Beginner,Dumbbell,40,440
+326,Squats,Legs,Muscle Gain,Advanced,Barbell,60,540
+327,Bicep Curls,Arms,Maintenance,Beginner,Dumbbell,30,180
+328,Shoulder Press,Shoulders,Maintenance,Beginner,Dumbbell,60,360
+329,Bench Press,Chest,Maintenance,Advanced,Barbell,20,160
+330,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,20,200
+331,Jump Rope,Cardio,Maintenance,Beginner,Bodyweight,30,360
+332,Burpees,Cardio,Maintenance,Intermediate,Dumbbell,40,360
+333,Chest Fly,Chest,Muscle Gain,Intermediate,Dumbbell,20,180
+334,Deadlift,Back,Muscle Gain,Beginner,Barbell,40,200
+335,Pull-ups,Back,Muscle Gain,Beginner,Dumbbell,40,200
+336,Deadlift,Back,Weight Loss,Advanced,Barbell,30,330
+337,Bench Press,Chest,Weight Loss,Beginner,Barbell,60,720
+338,Incline Press,Chest,Maintenance,Beginner,Dumbbell,60,480
+339,Incline Press,Chest,Weight Loss,Intermediate,Dumbbell,60,360
+340,Chest Fly,Chest,Muscle Gain,Intermediate,Dumbbell,40,360
+341,Squats,Legs,Weight Loss,Advanced,Barbell,40,320
+342,Plank,Core,Muscle Gain,Intermediate,Bodyweight,20,180
+343,Burpees,Cardio,Muscle Gain,Advanced,Dumbbell,40,320
+344,Chest Fly,Chest,Weight Loss,Advanced,Dumbbell,40,320
+345,Squats,Legs,Muscle Gain,Intermediate,Barbell,20,120
+346,Squats,Legs,Weight Loss,Intermediate,Barbell,20,240
+347,Lat Pulldown,Back,Maintenance,Intermediate,Machine,60,540
+348,Deadlift,Back,Weight Loss,Beginner,Barbell,30,270
+349,Bench Press,Chest,Weight Loss,Intermediate,Barbell,40,480
+350,Leg Curl,Legs,Weight Loss,Advanced,Dumbbell,40,360
+351,Bench Press,Chest,Muscle Gain,Advanced,Barbell,20,160
+352,Jump Rope,Cardio,Weight Loss,Advanced,Bodyweight,30,270
+353,Push-ups,Chest,Maintenance,Advanced,Bodyweight,30,300
+354,Squats,Legs,Weight Loss,Beginner,Barbell,30,300
+355,Incline Press,Chest,Muscle Gain,Intermediate,Dumbbell,20,200
+356,Mountain Climbers,Core,Maintenance,Advanced,Dumbbell,40,360
+357,Pull-ups,Back,Weight Loss,Intermediate,Dumbbell,20,200
+358,Squats,Legs,Muscle Gain,Beginner,Barbell,60,300
+359,Lat Pulldown,Back,Muscle Gain,Beginner,Machine,30,270
+360,Lat Pulldown,Back,Muscle Gain,Advanced,Machine,30,150
+361,Incline Press,Chest,Maintenance,Intermediate,Dumbbell,60,660
+362,Bench Press,Chest,Weight Loss,Intermediate,Barbell,30,240
+363,Bench Press,Chest,Weight Loss,Beginner,Barbell,30,300
+364,Lat Pulldown,Back,Maintenance,Intermediate,Machine,20,200
+365,Deadlift,Back,Maintenance,Beginner,Barbell,40,480
+366,Bicep Curls,Arms,Muscle Gain,Advanced,Dumbbell,30,300
+367,Lunges,Legs,Weight Loss,Advanced,Dumbbell,20,100
+368,Lunges,Legs,Maintenance,Advanced,Dumbbell,20,180
+369,Lunges,Legs,Muscle Gain,Advanced,Dumbbell,20,220
+370,Incline Press,Chest,Muscle Gain,Beginner,Dumbbell,30,240
+371,Lunges,Legs,Weight Loss,Advanced,Dumbbell,40,320
+372,Bench Press,Chest,Maintenance,Advanced,Barbell,20,180
+373,Squats,Legs,Muscle Gain,Intermediate,Barbell,60,300
+374,Cycling,Cardio,Maintenance,Advanced,Machine,30,360
+375,Running,Cardio,Muscle Gain,Intermediate,Bodyweight,30,330
+376,Tricep Dips,Arms,Maintenance,Advanced,Bodyweight,30,270
+377,Plank,Core,Muscle Gain,Advanced,Bodyweight,30,240
+378,Bicep Curls,Arms,Maintenance,Beginner,Dumbbell,60,300
+379,Mountain Climbers,Core,Weight Loss,Beginner,Dumbbell,40,400
+380,Lat Pulldown,Back,Weight Loss,Intermediate,Machine,20,160
+381,Lat Pulldown,Back,Maintenance,Advanced,Machine,30,210
+382,Shoulder Press,Shoulders,Maintenance,Beginner,Dumbbell,60,720
+383,Burpees,Cardio,Weight Loss,Advanced,Dumbbell,30,180
+384,Lat Pulldown,Back,Muscle Gain,Intermediate,Machine,40,240
+385,Burpees,Cardio,Maintenance,Intermediate,Dumbbell,30,300
+386,Chest Fly,Chest,Maintenance,Intermediate,Dumbbell,30,330
+387,Bench Press,Chest,Muscle Gain,Beginner,Barbell,60,540
+388,Lunges,Legs,Maintenance,Advanced,Dumbbell,60,660
+389,Incline Press,Chest,Weight Loss,Intermediate,Dumbbell,40,480
+390,Tricep Dips,Arms,Muscle Gain,Intermediate,Bodyweight,60,540
+391,Running,Cardio,Weight Loss,Intermediate,Bodyweight,20,180
+392,Push-ups,Chest,Maintenance,Intermediate,Bodyweight,20,140
+393,Cycling,Cardio,Muscle Gain,Advanced,Machine,40,280
+394,Bicep Curls,Arms,Maintenance,Intermediate,Dumbbell,30,210
+395,Tricep Dips,Arms,Muscle Gain,Advanced,Bodyweight,30,330
+396,Bench Press,Chest,Weight Loss,Intermediate,Barbell,30,150
+397,Leg Press,Legs,Muscle Gain,Beginner,Machine,30,240
+398,Bench Press,Chest,Maintenance,Intermediate,Barbell,30,180
+399,Shoulder Press,Shoulders,Maintenance,Intermediate,Dumbbell,30,240
+400,Lat Pulldown,Back,Weight Loss,Beginner,Machine,30,240
+401,Squats,Legs,Weight Loss,Advanced,Barbell,20,100
+402,Mountain Climbers,Core,Weight Loss,Beginner,Dumbbell,30,240
+403,Burpees,Cardio,Muscle Gain,Intermediate,Dumbbell,60,540
+404,Bicep Curls,Arms,Maintenance,Beginner,Dumbbell,30,150
+405,Cycling,Cardio,Maintenance,Intermediate,Machine,20,200
+406,Squats,Legs,Weight Loss,Intermediate,Barbell,40,400
+407,Lunges,Legs,Weight Loss,Advanced,Dumbbell,40,440
+408,Mountain Climbers,Core,Muscle Gain,Advanced,Dumbbell,20,180
+409,Incline Press,Chest,Maintenance,Advanced,Dumbbell,30,150
+410,Bench Press,Chest,Weight Loss,Advanced,Barbell,30,180
+411,Cycling,Cardio,Weight Loss,Beginner,Machine,20,100
+412,Deadlift,Back,Muscle Gain,Beginner,Barbell,40,320
+413,Bench Press,Chest,Muscle Gain,Intermediate,Barbell,30,330
+414,Mountain Climbers,Core,Maintenance,Advanced,Dumbbell,60,420
+415,Pull-ups,Back,Maintenance,Beginner,Dumbbell,30,180
+416,Leg Press,Legs,Weight Loss,Intermediate,Machine,30,150
+417,Plank,Core,Weight Loss,Beginner,Bodyweight,40,200
+418,Bicep Curls,Arms,Maintenance,Beginner,Dumbbell,60,540
+419,Squats,Legs,Weight Loss,Beginner,Barbell,20,180
+420,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,40,360
+421,Squats,Legs,Muscle Gain,Intermediate,Barbell,40,320
+422,Incline Press,Chest,Muscle Gain,Beginner,Dumbbell,30,360
+423,Leg Curl,Legs,Muscle Gain,Intermediate,Dumbbell,60,600
+424,Pull-ups,Back,Maintenance,Advanced,Dumbbell,20,140
+425,Tricep Dips,Arms,Weight Loss,Beginner,Bodyweight,40,480
+426,Deadlift,Back,Muscle Gain,Beginner,Barbell,60,720
+427,Chest Fly,Chest,Muscle Gain,Beginner,Dumbbell,30,360
+428,Tricep Dips,Arms,Weight Loss,Beginner,Bodyweight,30,180
+429,Lat Pulldown,Back,Maintenance,Intermediate,Machine,30,240
+430,Squats,Legs,Muscle Gain,Beginner,Barbell,20,180
+431,Lat Pulldown,Back,Weight Loss,Beginner,Machine,60,540
+432,Shoulder Press,Shoulders,Weight Loss,Beginner,Dumbbell,30,360
+433,Bicep Curls,Arms,Maintenance,Advanced,Dumbbell,40,320
+434,Deadlift,Back,Maintenance,Intermediate,Barbell,30,150
+435,Burpees,Cardio,Weight Loss,Advanced,Dumbbell,20,220
+436,Bicep Curls,Arms,Weight Loss,Advanced,Dumbbell,20,160
+437,Incline Press,Chest,Weight Loss,Beginner,Dumbbell,40,400
+438,Pull-ups,Back,Muscle Gain,Beginner,Dumbbell,20,100
+439,Squats,Legs,Muscle Gain,Advanced,Barbell,20,100
+440,Jump Rope,Cardio,Weight Loss,Beginner,Bodyweight,40,240
+441,Deadlift,Back,Weight Loss,Beginner,Barbell,40,360
+442,Chest Fly,Chest,Weight Loss,Beginner,Dumbbell,40,240
+443,Tricep Dips,Arms,Weight Loss,Advanced,Bodyweight,30,330
+444,Shoulder Press,Shoulders,Muscle Gain,Intermediate,Dumbbell,30,330
+445,Chest Fly,Chest,Maintenance,Advanced,Dumbbell,40,320
+446,Tricep Dips,Arms,Weight Loss,Intermediate,Bodyweight,60,360
+447,Incline Press,Chest,Maintenance,Intermediate,Dumbbell,20,100
+448,Squats,Legs,Maintenance,Advanced,Barbell,40,200
+449,Jump Rope,Cardio,Maintenance,Intermediate,Bodyweight,40,440
+450,Squats,Legs,Weight Loss,Advanced,Barbell,60,600
+451,Leg Curl,Legs,Maintenance,Beginner,Dumbbell,60,360
+452,Cycling,Cardio,Muscle Gain,Intermediate,Machine,30,330
+453,Incline Press,Chest,Maintenance,Advanced,Dumbbell,30,150
+454,Burpees,Cardio,Muscle Gain,Intermediate,Dumbbell,40,400
+455,Chest Fly,Chest,Weight Loss,Beginner,Dumbbell,40,360
+456,Incline Press,Chest,Maintenance,Advanced,Dumbbell,40,280
+457,Burpees,Cardio,Muscle Gain,Advanced,Dumbbell,60,720
+458,Leg Curl,Legs,Muscle Gain,Beginner,Dumbbell,30,240
+459,Bicep Curls,Arms,Maintenance,Beginner,Dumbbell,30,330
+460,Shoulder Press,Shoulders,Weight Loss,Beginner,Dumbbell,20,120
+461,Bicep Curls,Arms,Muscle Gain,Advanced,Dumbbell,20,200
+462,Plank,Core,Weight Loss,Intermediate,Bodyweight,20,100
+463,Tricep Dips,Arms,Weight Loss,Beginner,Bodyweight,20,120
+464,Tricep Dips,Arms,Muscle Gain,Advanced,Bodyweight,60,360
+465,Leg Curl,Legs,Weight Loss,Beginner,Dumbbell,60,660
+466,Tricep Dips,Arms,Muscle Gain,Beginner,Bodyweight,20,100
+467,Deadlift,Back,Muscle Gain,Advanced,Barbell,30,240
+468,Incline Press,Chest,Weight Loss,Advanced,Dumbbell,30,300
+469,Lunges,Legs,Muscle Gain,Advanced,Dumbbell,40,320
+470,Burpees,Cardio,Muscle Gain,Advanced,Dumbbell,60,660
+471,Lat Pulldown,Back,Weight Loss,Advanced,Machine,60,660
+472,Jump Rope,Cardio,Muscle Gain,Advanced,Bodyweight,30,300
+473,Pull-ups,Back,Muscle Gain,Beginner,Dumbbell,40,400
+474,Squats,Legs,Maintenance,Advanced,Barbell,40,240
+475,Plank,Core,Weight Loss,Intermediate,Bodyweight,20,200
+476,Deadlift,Back,Maintenance,Intermediate,Barbell,40,400
+477,Running,Cardio,Muscle Gain,Intermediate,Bodyweight,20,160
+478,Lunges,Legs,Weight Loss,Advanced,Dumbbell,60,360
+479,Leg Press,Legs,Weight Loss,Advanced,Machine,30,150
+480,Chest Fly,Chest,Maintenance,Beginner,Dumbbell,60,300
+481,Lat Pulldown,Back,Maintenance,Intermediate,Machine,20,160
+482,Squats,Legs,Weight Loss,Intermediate,Barbell,40,280
+483,Mountain Climbers,Core,Muscle Gain,Beginner,Dumbbell,60,720
+484,Bench Press,Chest,Maintenance,Beginner,Barbell,30,360
+485,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,20,220
+486,Bench Press,Chest,Maintenance,Beginner,Barbell,20,180
+487,Lat Pulldown,Back,Weight Loss,Beginner,Machine,20,100
+488,Chest Fly,Chest,Muscle Gain,Advanced,Dumbbell,60,420
+489,Leg Press,Legs,Maintenance,Beginner,Machine,60,360
+490,Squats,Legs,Weight Loss,Advanced,Barbell,30,270
+491,Leg Press,Legs,Weight Loss,Beginner,Machine,60,480
+492,Pull-ups,Back,Maintenance,Beginner,Dumbbell,40,360
+493,Leg Press,Legs,Maintenance,Intermediate,Machine,40,320
+494,Shoulder Press,Shoulders,Weight Loss,Beginner,Dumbbell,20,120
+495,Pull-ups,Back,Muscle Gain,Beginner,Dumbbell,60,420
+496,Shoulder Press,Shoulders,Maintenance,Advanced,Dumbbell,60,480
+497,Cycling,Cardio,Weight Loss,Intermediate,Machine,60,660
+498,Plank,Core,Maintenance,Beginner,Bodyweight,20,180
+499,Pull-ups,Back,Muscle Gain,Intermediate,Dumbbell,60,420
+500,Leg Press,Legs,Weight Loss,Intermediate,Machine,60,720
